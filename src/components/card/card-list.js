@@ -1,3 +1,4 @@
+import { doc } from "prettier";
 import "./cards-list.scss";
 
 export default class CardList {
