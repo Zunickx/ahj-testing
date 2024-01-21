@@ -1,5 +1,4 @@
 import ValidationForm from "../components/validation-form/validation-form";
-import CardList from "../components/cards-list/cards-list";
 
 document.addEventListener("DOMContentLoaded", () => {
   const validationForm = new ValidationForm(
